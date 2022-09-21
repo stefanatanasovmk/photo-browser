@@ -19,7 +19,7 @@ interface InitialState {
 const initialState: InitialState = {
   images: [],
   status: "idle",
-  limit: 1,
+  limit: 28,
   image: {
     albumId: 0,
     id: 0,
@@ -54,7 +54,7 @@ export const imagesSlice = createSlice({
   initialState: initialState,
   reducers: {
     increment: (state) => {
-      state.limit += 1;
+      state.limit += 7;
     },
   },
   extraReducers: (builder) => {
