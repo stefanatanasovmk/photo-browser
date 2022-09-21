@@ -2,11 +2,13 @@
 
 This app is built as a coding task for Geniem.
 
-You will need to have installed Node v.~ 16.13.2 and Typescript v.~8.1.2 (this are the versions that I'm using on my local machine)
+If you want to run this app locally, ou will need to have installed Node v.~ 16.13.2 and Typescript v.~8.1.2 (this are the versions that I'm using on my local machine)
 
 ## Run the project locally in development mode:
 
-In the project directory, run:
+### `clone https://github.com/stefanatanasovmk/photo-browser.git`
+
+Cd into the project directory, run:
 
 ### `npm install`
 
@@ -18,6 +20,8 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## Run the project locally in production mode:
+
+### `clone https://github.com/stefanatanasovmk/photo-browser.git`
 
 In the project directory, execute these commands:
 
