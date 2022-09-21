@@ -23,11 +23,11 @@ You will also see any lint errors in the console.
 
 ### `git clone https://github.com/stefanatanasovmk/photo-browser.git`
 
-In the project directory, execute these commands:
+Cd into the project directory and execute these commands:
 
 ### `npm install`
 
-### `npm install serve`
+### `npm install -g serve`
 
 ### `npm run build`
 
