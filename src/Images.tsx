@@ -53,7 +53,7 @@ const imageCard: React.CSSProperties = {
   flexDirection: "column",
   alignItems: "center",
   justifyContent: "flex-start",
-  margin: "1vh",
+  margin: "0.5vh",
   backgroundColor: "#FFFEFE",
   borderRadius: "5px",
   boxShadow: "1px 2px 5px rgba(0,0,0,0.75)",

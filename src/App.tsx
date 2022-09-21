@@ -1,7 +1,7 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Images from "./Images";
 import Image from "./Image";
-import ErrorView from "./ErrorView";
+import ErrorView from "./404";
 function App() {
   return (
     <div style={body}>
